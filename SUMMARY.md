@@ -7,5 +7,6 @@
 ## experiments
 
 * [Embed](experiments/embed.md)
+* [Events](experiments/events.md)
 * [Markdown](experiments/markdown.md)
 
