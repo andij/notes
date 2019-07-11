@@ -133,7 +133,7 @@ Browse below to gain a sense of our past events. The best way to learn about our
 
 ![Promoting a culture of collaboration ](https://user-images.githubusercontent.com/7101754/60716642-dbab1f80-9f17-11e9-8c97-823cc84a8990.png)
 
-### 2018-12-13 / Community and Contributing workshop
+## 2018-12-13 / Community and Contributing workshop
 
 - Understanding what community and contributing to Nucleus [means](https://docs.britishgas.design/community/best-practices) to UX designers
 - Co-creating first drafts of contribution processes
