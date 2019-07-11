@@ -1,5 +1,5 @@
 ---
-description: List of our events
+description: List of our Nucleus Sessions
 ---
 
 # Events
@@ -76,6 +76,8 @@ Browse below to gain a sense of our past events. The best way to learn about our
 - Time for unanswered questions + Nucleus love
 
 ## 2019-04-30 / Modular Scale
+
+{% embed url="https://soapbox.wistia.com/videos/v2LAAl5UnT" %}
 
 - Intro to modular scale
 - How we've used this technique in our design system  
