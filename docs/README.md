@@ -1,6 +1,6 @@
 ---
-description: a place to make a space
+description: a place to make a notes
 ---
 
-# notes
+# Noted notes
 
