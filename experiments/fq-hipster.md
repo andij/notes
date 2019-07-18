@@ -10,7 +10,7 @@ Godard celiac waistcoat next level umami irony pug marfa chambray selvage subway
 
 ### Usage
 
-This example I've chosen `XML/HTML/SVG` as it's type, which resulted in `markup` being included after the first three backticks.
+This example I've chosen `XML/HTML/SVG` as it's type
 
 ```markup
 <fq-hipster>
@@ -18,4 +18,6 @@ This example I've chosen `XML/HTML/SVG` as it's type, which resulted in `markup`
   <p>Tacos celiac jean shorts master cleanse plaid. Cred shabby chic unicorn 3 wolf moon taxidermy activated charcoal skateboard.</p>
 </fq-hipster>
 ```
+
+What goes on with this Github import failure..?
 
