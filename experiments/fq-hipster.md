@@ -10,7 +10,7 @@ Godard celiac waistcoat next level umami irony pug marfa chambray selvage subway
 
 ### Usage
 
-This example I've chosen `XML/HTML/SVG` as it's type
+This example I've chosen `XML/HTML/SVG` as it's type, which resulted in `markup` being included after the first three backticks.
 
 ```markup
 <fq-hipster>
