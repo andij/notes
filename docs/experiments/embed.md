@@ -4,49 +4,39 @@ description: Experiment with the embed within Gitbook
 
 # Embed
 
-### Checking things out
+## Checking things out
 
 Taking a few embeds and dropping them in here.
 
-### ns-cta
+## ns-cta
 
-{% embed url="https://codepen.io/andij/pen/qzYoKB" %}
+{% embed url="https://codepen.io/andij/pen/qzYoKB" caption="" %}
 
-{% embed url="https://jsfiddle.net/andij/wop7y8df/1/" %}
+{% embed url="https://jsfiddle.net/andij/wop7y8df/1/" caption="" %}
 
-{% embed url="https://jsfiddle.net/andij/wop7y8df/5/" %}
+{% embed url="https://jsfiddle.net/andij/wop7y8df/5/" caption="" %}
 
 BGE
 
+{% embed url="https://jsfiddle.net/gh/get/library/pure/britishgas-engineering/nucleus-examples/tree/master/demos/ns-cta" caption="" %}
 
+## ns-cards
 
-{% embed url="https://jsfiddle.net/gh/get/library/pure/britishgas-engineering/nucleus-examples/tree/master/demos/ns-cta" %}
+{% embed url="https://codepen.io/andij/pen/wLjjaj" caption="" %}
 
+## ns-landmark
 
+{% embed url="https://codepen.io/andij/pen/XLqqqd" caption="" %}
 
-### 
+## soapbox
 
-### ns-cards
+{% embed url="https://soapbox.wistia.com/videos/v2LAAl5UnT" caption="" %}
 
-{% embed url="https://codepen.io/andij/pen/wLjjaj" %}
+![Caption content](../.gitbook/assets/image%20%282%29.png)
 
-### ns-landmark
+![Caption for the PDF document](../.gitbook/assets/image-1.png)
 
-{% embed url="https://codepen.io/andij/pen/XLqqqd" %}
+{% embed url="https://youtu.be/0\_tMIoOOTRA" caption="" %}
 
-### soapbox
-
-{% embed url="https://soapbox.wistia.com/videos/v2LAAl5UnT" %}
-
-![Caption content](../.gitbook/assets/image.png)
-
-![Caption for the PDF document](../.gitbook/assets/image%20%281%29.png)
-
-
-
-{% embed url="https://youtu.be/0\_tMIoOOTRA" %}
-
-{% embed url="https://youtu.be/r2fVnLh\_tsg" %}
-
-
+{% embed url="https://youtu.be/r2fVnLh\_tsg" caption="" %}
 
