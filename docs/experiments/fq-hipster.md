@@ -30,18 +30,21 @@ This example I've chosen `XML/HTML/SVG` as it's type
 | **Default** | n/a |
 | **Options** | n/a |
 | **Notes** | `<span class="h5">Subheading</span>`  `<span class="h1 enlighten">Heading <b>embold</b> </span>` Use `<b>` to embolden |
+
 | **Name** | Named slot `paragraph` |
 | :--- | :--- |
 | **Description** | A single line of paragraph text |
 | **Type** | string |
 | **Default** | n/a |
 | **Options** | Include an optional link to `#caveat` by placing [1](ns-landmark.md#caveat) at the end |
+
 | **Name** | Named slot `cta` |
 | :--- | :--- |
 | **Description** | The `<ns-cta>` component  contained within a `<a>` |
 | **Type** | string |
 | **Default** | n/a |
 | **Options** | `<ns-cta>`, `<a>` |
+
 | **Name** | Background image |
 | :--- | :--- |
 | **Description** | A 16:9 image following our Landmark focus template |
