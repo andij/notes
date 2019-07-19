@@ -41,11 +41,9 @@ Paragraph
 * Bullet list
 * Petersfield daydream roundabout
 * South coast kite flying
-
-1. Ordered list
-2. Winchester gin tour
-3. Doodling with a biro
-
+* Ordered list
+* Winchester gin tour
+* Doodling with a biro
 * [ ] Tasklist
 * [ ] With unchecked checkboxes
 * [x] Things that are complete
@@ -62,9 +60,9 @@ constructor() {
 
 > Quote - monospaced monocle indicating a nod to simplicity
 
-![Image caption](../.gitbook/assets/image%20%282%29.png)
+![Image caption](../.gitbook/assets/image-2.png)
 
-![](https://andijcdn.sirv.com/nds/testcard-16x9.png?w=320)
+![Aligned left](https://andijcdn.sirv.com/nds/testcard-16x9.png?w=320)
 
 | Table heading | Table heading |
 | :--- | :--- |
@@ -118,8 +116,7 @@ $$
 s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2}
 $$
 
-{% file src="../.gitbook/assets/2019-07-04-homepage-ns-cards-how-can-we-help.png" caption="Caption for this file" %}
-
+{% file src="../.gitbook/assets/2019-07-04-homepage-ns-cards-how-can-we-help \(1\).png" caption="Caption for this file" %}
 
 ## Templates from Gitbook
 
