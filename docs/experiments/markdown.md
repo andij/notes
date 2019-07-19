@@ -66,6 +66,16 @@ constructor() {
 
 > Quote - monospaced monocle indicating a nod to simplicity
 
+```javascript
+constructor() {
+  super();
+  this.type = 'direct';
+  this.loading = 'false';
+  this.loadingMessage = 'Loading...';
+  this.icon = 'arrow-right';
+}
+```
+
 ![Image caption](../.gitbook/assets/image%20%282%29.png)
 
 | Table heading | Table heading |
