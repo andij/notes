@@ -34,6 +34,10 @@ After ticking in Gitbook the tick items are all switched into `* [ ]`
 
 #### Heading 4
 
+##### Heading 5
+
+###### Heading 6
+
 Paragraph
 
 * Bullet list
@@ -49,6 +53,7 @@ Paragraph
 * [x] Things that are complete
 
 http://github.com - automatic!
+
 [GitHub](http://github.com)
 
 ```javascript
@@ -60,6 +65,8 @@ constructor() {
   this.icon = 'arrow-right';
 }
 ```
+
+Inline code `is included by surrounding `backticks` in line` 
 
 > Quote - monospaced monocle indicating a nod to simplicity
 
