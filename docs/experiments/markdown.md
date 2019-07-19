@@ -48,6 +48,9 @@ Paragraph
 * [ ] With unchecked checkboxes
 * [x] Things that are complete
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 ```javascript
 constructor() {
   super();
