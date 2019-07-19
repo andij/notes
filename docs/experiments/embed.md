@@ -32,7 +32,7 @@ BGE
 
 {% embed url="https://soapbox.wistia.com/videos/v2LAAl5UnT" caption="" %}
 
-![Caption content](../.gitbook/assets/image%20%282%29.png)
+![Caption content](../.gitbook/assets/image%20%281%29.png)
 
 ![Caption for the PDF document](../.gitbook/assets/image-1.png)
 
