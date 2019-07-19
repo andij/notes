@@ -4,7 +4,9 @@ description: What kinda markdown does what
 
 # Markdown
 
-## Tasklist
+## Markdown
+
+### Tasklist
 
 `* [ ] Pop-up echo park`
 
@@ -26,45 +28,142 @@ These items have been authored in Atom with `- [ ]`
 
 After ticking in Gitbook the tick items are all switched into `* [ ]`
 
+## Snippets taken from the Gitbook context tool
 
-# Templates from Gitbook
+## Heading 1
+
+### Heading 2
+
+#### Heading 3
+
+Paragraph
+
+* Bullet list
+* Petersfield daydream roundabout
+* South coast kite flying
+
+1. Ordered list
+2. Winchester gin tour
+3. Doodling with a biro
+
+* [ ] Tasklist
+* [ ] With unchecked checkboxes
+* [x] Things that are complete
+
+{% code-tabs %}
+{% code-tabs-item title="filename-for-the-code.pd" %}
+```javascript
+constructor() {
+  super();
+  this.type = 'direct';
+  this.loading = 'false';
+  this.loadingMessage = 'Loading...';
+  this.icon = 'arrow-right';
+}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+> Quote - monospaced monocle indicating a nod to simplicity
+
+![Image caption](../.gitbook/assets/image%20%282%29.png)
+
+| Table heading | Table heading |
+| :--- | :--- |
+| First column content | Second column content |
+| Unspecified spots on curtains | If one say hid deep over find |
+
+{% hint style="info" %}
+Hint with blue \[i\] icon
+{% endhint %}
+
+{% hint style="warning" %}
+Hint with orange \[!\] icon
+{% endhint %}
+
+{% hint style="danger" %}
+Hint with red \[!\] icon
+{% endhint %}
+
+{% hint style="success" %}
+Hint with green tick
+{% endhint %}
+
+{% page-ref page="../scribbles/2019-06/2019-06-25.md" %}
+
+{% page-ref page="fq-hipster.md" %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+Content within the first tab reveals most formatting types are available to drop in here.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+## Swag hashtag af salvia
+
+Art party unicorn next level. Yr helvetica vinyl pabst echo park cardigan kogi crucifix literally cornhole distillery tbh green juice. Cloud bread roof party viral hashtag activated charcoal, DIY venmo meditation typewriter. Shaman VHS four dollar toast pork belly, cliche enamel pin tousled.
+
+### Cardigan crucifix microdosing
+
+{% code-tabs %}
+{% code-tabs-item title="component.js" %}
+```javascript
+  static get properties() {
+    return {
+      type: {type: String},
+      position: {type: String}
+    };
+  }
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
+
+$$
+s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2}
+$$
+
+{% file src="../.gitbook/assets/2019-07-04-homepage-ns-cards-how-can-we-help.png" caption="Caption for this file" %}
+
+
+
+## Templates from Gitbook
 
 These are the markdown examples provided by Gitbook
 
-# FAQ [Template]
+## FAQ \[Template\]
 
-## Can I become who I want to be?
+### Can I become who I want to be?
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
-## Have you had a chance to answer the previous question?
+### Have you had a chance to answer the previous question?
 
 Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
+## Guide \[Template\]
 
-
-# Guide [Template]
-
-## Getting Super Powers
+### Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
-```
+```text
 $ give me super-powers
 ```
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
 Once you're strong enough, save the world:
 
-```
+```text
 // Ain't no code for that yet, sorry
 echo 'You got to trust me on this, I saved the world'
 ```
 
-# API [Template]
+## API \[Template\]
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
@@ -130,25 +229,21 @@ Could not find a cake matching this query.
 {% endapi-method-spec %}
 {% endapi-method %}
 
+## Changelog \[Template\]
 
-# Changelog [Template]
+### 15.0.0 - 2042-12-03
 
-## 15.0.0 - 2042-12-03
-
-### Fixed
+#### Fixed
 
 * Removed humans, they weren't doing fine with animals.
 
-### Changed
+#### Changed
 
 * Animals are now super cute, all of them.
 
-## 14.0.0 - 2042-10-06
+### 14.0.0 - 2042-10-06
 
-### Added
+#### Added
 
 * Introduced animals into the world, we believe they're going to be a neat addition.
-
-
-
 

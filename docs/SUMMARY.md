@@ -14,8 +14,8 @@
   * [fq-hipster](experiments/fq-hipster.md)
   * [Prototypes](experiments/ember-twiddles.md)
 * [Templates](templates/README.md)
-  * [Guide](templates/template-guide.md)
-  * [FAQ](templates/template-faq.md)
-  * [API](templates/template-api.md)
-  * [Changelog](templates/template-changelog.md)
+  * [Guide](templates/guide.md)
+  * [FAQ](templates/faq.md)
+  * [API](templates/api.md)
+  * [Changelog](templates/changelog.md)
 

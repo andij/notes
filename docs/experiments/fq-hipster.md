@@ -1,5 +1,7 @@
 ---
-description: Quinoa unicorn selfies, mustache brooklyn man bun asymmetrical mlkshk food truck raclette gochujang gentrify.
+description: >-
+  Quinoa unicorn selfies, mustache brooklyn man bun asymmetrical mlkshk food
+  truck raclette gochujang gentrify.
 ---
 
 # fq-hipster
@@ -36,7 +38,7 @@ This example I've chosen `XML/HTML/SVG` as it's type
 | **Description** | A single line of paragraph text |
 | **Type** | string |
 | **Default** | n/a |
-| **Options** | Include an optional link to `#caveat` by placing [1](ns-landmark.md#caveat) at the end |
+| **Options** | Include an optional link to `#caveat` by placing [1](https://github.com/andij/notes/tree/40a79a54557a184ae798bffdc64478410e5e4356/docs/experiments/ns-landmark.md#caveat) at the end |
 
 | **Name** | Named slot `cta` |
 | :--- | :--- |
@@ -51,3 +53,4 @@ This example I've chosen `XML/HTML/SVG` as it's type
 | **Type** | JPEG |
 | **Default** | n/a |
 | **Options** | 1440 x 810px |
+
