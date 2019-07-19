@@ -78,6 +78,8 @@ constructor() {
 
 ![Image caption](../.gitbook/assets/image%20%282%29.png)
 
+![](https://andijcdn.sirv.com/nds/testcard-16x9.png?w=320)
+
 | Table heading | Table heading |
 | :--- | :--- |
 | First column content | Second column content |
