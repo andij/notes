@@ -4,11 +4,7 @@ description: What kinda markdown does what
 
 # Markdown
 
-## Markdown
-
-### Markdown
-
-#### Tasklist
+## Tasklist
 
 `* [ ] Pop-up echo park`
 
@@ -30,30 +26,24 @@ These items have been authored in Atom with `- [ ]`
 
 After ticking in Gitbook the tick items are all switched into `* [ ]`
 
-### Snippets taken from the Gitbook context tool
+## Snippets taken from the Gitbook context tool
 
-### Heading 1 - from Gitbook
+## Heading 2
 
-#### Heading 2 - from Gitbook
+### Heading 3
 
-**Heading 3 - from Gitbook**
-
-Split the two sets of things to see them
-
-## Heading 1 - from Atom
-
-### Heading 2 - from Atom
-
-#### Heading 3 - from Atom
+#### Heading 4
 
 Paragraph
 
 * Bullet list
 * Petersfield daydream roundabout
 * South coast kite flying
-* Ordered list
-* Winchester gin tour
-* Doodling with a biro
+
+1. Ordered list
+2. Winchester gin tour
+3. Doodling with a biro
+
 * [ ] Tasklist
 * [ ] With unchecked checkboxes
 * [x] Things that are complete
@@ -105,11 +95,11 @@ Content within the first tab reveals most formatting types are available to drop
 {% endtab %}
 
 {% tab title="Second Tab" %}
-### Swag hashtag af salvia
+## Swag hashtag af salvia
 
 Art party unicorn next level. Yr helvetica vinyl pabst echo park cardigan kogi crucifix literally cornhole distillery tbh green juice. Cloud bread roof party viral hashtag activated charcoal, DIY venmo meditation typewriter. Shaman VHS four dollar toast pork belly, cliche enamel pin tousled.
 
-#### Cardigan crucifix microdosing
+## Cardigan crucifix microdosing
 
 ```javascript
   static get properties() {
@@ -128,23 +118,23 @@ $$
 
 {% file src="../.gitbook/assets/2019-07-04-homepage-ns-cards-how-can-we-help-1.png" caption="Caption for this file" %}
 
-### Templates from Gitbook
+## Templates from Gitbook
 
 These are the markdown examples provided by Gitbook
 
-### FAQ \[Template\]
+## FAQ \[Template\]
 
-#### Can I become who I want to be?
+### Can I become who I want to be?
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
-#### Have you had a chance to answer the previous question?
+### Have you had a chance to answer the previous question?
 
 Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
-### Guide \[Template\]
+## Guide \[Template\]
 
-#### Getting Super Powers
+### Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
@@ -163,7 +153,7 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 
-### API \[Template\]
+## API \[Template\]
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
@@ -229,21 +219,21 @@ Could not find a cake matching this query.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-### Changelog \[Template\]
+## Changelog \[Template\]
 
-#### 15.0.0 - 2042-12-03
+### 15.0.0 - 2042-12-03
 
-**Fixed**
+#### Fixed
 
 * Removed humans, they weren't doing fine with animals.
 
-**Changed**
+#### Changed
 
 * Animals are now super cute, all of them.
 
 #### 14.0.0 - 2042-10-06
 
-**Added**
+#### Added
 
 * Introduced animals into the world, we believe they're going to be a neat addition.
 
