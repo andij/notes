@@ -50,8 +50,6 @@ Paragraph
 * [ ] With unchecked checkboxes
 * [x] Things that are complete
 
-{% code-tabs %}
-{% code-tabs-item title="filename-for-the-code.pd" %}
 ```javascript
 constructor() {
   super();
@@ -61,20 +59,8 @@ constructor() {
   this.icon = 'arrow-right';
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 
 > Quote - monospaced monocle indicating a nod to simplicity
-
-```javascript
-constructor() {
-  super();
-  this.type = 'direct';
-  this.loading = 'false';
-  this.loadingMessage = 'Loading...';
-  this.icon = 'arrow-right';
-}
-```
 
 ![Image caption](../.gitbook/assets/image%20%282%29.png)
 
@@ -117,8 +103,6 @@ Art party unicorn next level. Yr helvetica vinyl pabst echo park cardigan kogi c
 
 ### Cardigan crucifix microdosing
 
-{% code-tabs %}
-{% code-tabs-item title="component.js" %}
 ```javascript
   static get properties() {
     return {
@@ -127,8 +111,6 @@ Art party unicorn next level. Yr helvetica vinyl pabst echo park cardigan kogi c
     };
   }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 {% endtab %}
 {% endtabs %}
 
@@ -137,7 +119,6 @@ s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2}
 $$
 
 {% file src="../.gitbook/assets/2019-07-04-homepage-ns-cards-how-can-we-help.png" caption="Caption for this file" %}
-
 
 
 ## Templates from Gitbook
