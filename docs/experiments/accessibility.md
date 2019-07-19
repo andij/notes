@@ -6,17 +6,23 @@ description: Detailing the difference between implementations to choose the most
 
 ## Using VoiceOver on iPhone
 
+### 1.
+
 ```markup
 <a href="#!" target="_blank" rel="noopener" title="opens in a new window">some external page</a>
 ```
 
 > Some external page. Link. _pause_ Opens in new window.
 
+### 2.
+
 ```markup
 <a href="#!">take me somewhere</a>
 ```
 
 > Take me somewhere. Link.
+
+### 3.
 
 In this example an additional SVG image asset is used.
 
@@ -30,6 +36,8 @@ Focus on the next item in the reading list.
 
 > Opens in new window.
 
+### 4.
+
 In this example an additional PNG image asset is used.
 
 ```markup
@@ -38,11 +46,15 @@ In this example an additional PNG image asset is used.
 
 > Some external page, opens in a new window. Link.
 
+### 5.
+
 ```markup
 <a href="#!" target="_blank" rel="noopener" data-alt="(opens in a new window)">some external page</a>
 ```
 
 > Some external page, opens in a new window. Link.
+
+### 6.
 
 ```markup
 <a href="#caveat" data-alt="Read further information within caveat item number">1</a>
@@ -50,11 +62,15 @@ In this example an additional PNG image asset is used.
 
 > Read further information within caveat item number one. Link.
 
+### 7.
+
 ```markup
 <a href="#!" target="_blank" rel="noopener" aria-label="opens in a new window">some external page</a>
 ```
 
 > Opens in a new window. Link.
+
+### 8.
 
 ```markup
 <a href="#!" target="_blank" rel="noopener">some external page<span class="sr-only">(opens in a new window)</span></a>
@@ -62,11 +78,24 @@ In this example an additional PNG image asset is used.
 
 > Some external page, opens in a new window. Link.
 
+### 9.
+
+Including `aria-describedby` to associate a separated piece of content
+
 ```markup
-<div hidden>
-  <span id="new-window">Opens in a new window</span>
-</div>
+<span hidden id="new-window">Opens in a new window</span>
+
 <a href="#!" target="_blank" rel="noopener" aria-describedby="new-window">some external page</a>
 ```
 
 > Some external page. Link. _pause_ Opens in new window.
+
+### 10.
+
+Here, I've tried to use our `<ns-icon>` component in the same way, but it doesn't render the content into the DOM, if we were to use this technique, we will need to include the functionality
+
+```markup
+<a href="#!" target="_blank" rel="noopener" aria-describedby="ns-icon-new-window">some external page <ns-icon id="ns-icon-new-window">opens in a new window</ns-icon></a>
+```
+
+> Some external page. Link
