@@ -66,7 +66,7 @@ constructor() {
 }
 ```
 
-Inline code `is included by surrounding `backticks` in line` 
+Inline code `is included by surrounding backticks in line` 
 
 > Quote - monospaced monocle indicating a nod to simplicity
 
