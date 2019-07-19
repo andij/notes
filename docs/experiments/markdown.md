@@ -30,20 +30,30 @@ After ticking in Gitbook the tick items are all switched into `* [ ]`
 
 ## Snippets taken from the Gitbook context tool
 
-## Heading 1
+## Heading 1 - from Gitbook
 
-### Heading 2
+### Heading 2 - from Gitbook
 
-#### Heading 3
+#### Heading 3 - from Gitbook
+
+Split the two sets of things to see them
+
+# Heading 1 - from Atom
+
+## Heading 2 - from Atom
+
+### Heading 3 - from Atom
 
 Paragraph
 
 * Bullet list
 * Petersfield daydream roundabout
 * South coast kite flying
-* Ordered list
-* Winchester gin tour
-* Doodling with a biro
+
+1. Ordered list
+2. Winchester gin tour
+3. Doodling with a biro
+
 * [ ] Tasklist
 * [ ] With unchecked checkboxes
 * [x] Things that are complete
