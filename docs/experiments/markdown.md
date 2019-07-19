@@ -70,7 +70,7 @@ constructor() {
 
 > Quote - monospaced monocle indicating a nod to simplicity
 
-![Image caption](../.gitbook/assets/image-2%20%281%29.png)
+![Image caption](https://andijcdn.sirv.com/nds/testcard-16x9.png?w=320)
 
 ![Aligned left](https://andijcdn.sirv.com/nds/testcard-16x9.png?w=320)
 

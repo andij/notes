@@ -32,9 +32,9 @@ BGE
 
 {% embed url="https://soapbox.wistia.com/videos/v2LAAl5UnT" caption="" %}
 
-![Caption content](../.gitbook/assets/image%20%281%29.png)
+![Caption content](https://andijcdn.sirv.com/nds/testcard-16x9.png?w=320)
 
-![Caption for the PDF document](../.gitbook/assets/image-1.png)
+![Caption](https://andijcdn.sirv.com/nds/testcard-16x9.png?w=320)
 
 {% embed url="https://youtu.be/0\_tMIoOOTRA" caption="" %}
 
