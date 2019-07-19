@@ -27,10 +27,11 @@ These items have been authored in Atom with `- [ ]`
 After ticking in Gitbook the tick items are all switched into `* [ ]`
 
 
-## Templates from Gitbook
+# Templates from Gitbook
 
+These are the markdown examples provided by Gitbook
 
-# FAQ
+# FAQ [Template]
 
 ## Can I become who I want to be?
 
@@ -42,7 +43,7 @@ Yes, after a few months we finally found the answer. Sadly, Mike is on vacations
 
 
 
-# Guide
+# Guide [Template]
 
 ## Getting Super Powers
 
@@ -63,7 +64,7 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 
-# API
+# API [Template]
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
@@ -130,7 +131,7 @@ Could not find a cake matching this query.
 {% endapi-method %}
 
 
-# Changelog
+# Changelog [Template]
 
 ## 15.0.0 - 2042-12-03
 
