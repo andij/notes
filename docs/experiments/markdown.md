@@ -44,9 +44,11 @@ Paragraph
 * Petersfield daydream roundabout
 * South coast kite flying
 
+
 1. Ordered list
 2. Winchester gin tour
 3. Doodling with a biro
+
 
 * [ ] Tasklist
 * [ ] With unchecked checkboxes
@@ -66,7 +68,7 @@ constructor() {
 }
 ```
 
-Inline code `is included by surrounding backticks in line` 
+Inline code `is included by surrounding backticks in line`
 
 > Quote - monospaced monocle indicating a nod to simplicity
 
