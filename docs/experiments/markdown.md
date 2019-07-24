@@ -50,7 +50,7 @@ Man bun vegan _aesthetic gochujang_ seitan lo-fi viral.
 2. Winchester gin tour
 3. Doodling with a biro
 
-Leggings forage hell of hot chicken, *tofu shoreditch* kinfolk literally subway tile shabby chic.
+Leggings forage hell of hot chicken, **tofu shoreditch** kinfolk literally subway tile shabby chic.
 
 * [ ] Tasklist
 * [ ] With unchecked checkboxes
