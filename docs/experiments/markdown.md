@@ -34,9 +34,9 @@ After ticking in Gitbook the tick items are all switched into `* [ ]`
 
 #### Heading 4
 
-##### Heading 5
+**Heading 5**
 
-###### Heading 6
+**Heading 6**
 
 Paragraph
 
@@ -56,7 +56,7 @@ Leggings forage hell of hot chicken, **tofu shoreditch** kinfolk literally subwa
 * [ ] With unchecked checkboxes
 * [x] Things that are complete
 
-http://github.com - automatic!
+[http://github.com](http://github.com) - automatic!
 
 [GitHub](http://github.com)
 
@@ -129,8 +129,6 @@ Art party unicorn next level. Yr helvetica vinyl pabst echo park cardigan kogi c
 $$
 s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2}
 $$
-
-{% file src="../.gitbook/assets/2019-07-04-homepage-ns-cards-how-can-we-help-1.png" caption="Caption for this file" %}
 
 ## Templates from Gitbook
 
