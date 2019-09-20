@@ -6,11 +6,11 @@ description: Here are our release notes - enjoy!
 
 ## Version [X.X.X]
 
-### [briefly descibe the release]
+**[briefly descibe the release]**
 
 Release date - [YYYY-MM-DD]
 
-#### What’s new around here [add emoji]
+**What’s new around here [add emoji]**
 
 **[add an emboldened line if there's more than one list]**
 
@@ -26,21 +26,21 @@ Release date - [YYYY-MM-DD]
   * [wrap `ns-component` names and code references in backticks]
 * [title followed by - http://the.url-of.choice]
 
-#### Bug fixes [add emoji]
+**Bug fixes [add emoji]**
 
 * [include a list of things]
   * [second level item]
   * [wrap `ns-component` names and code references in backticks]
 * [title followed by - http://the.url-of.choice]
 
-#### Improvements [add emoji]
+**Improvements [add emoji]**
 
 * [include a list of things]
   * [second level item]
   * [wrap `ns-component` names and code references in backticks]
 * [title followed by - http://the.url-of.choice]
 
-#### Feedback [add emoji]
+**Feedback [add emoji]**
 
 All our Requests For Change can be found in our Requests project board in Github.
 https://github.com/ConnectedHomes/nucleus/projects/6
@@ -50,25 +50,25 @@ Any questions? Let us know 🙌🏼
 
 ## Version 1.1.4
 
-### Additional components, bugfixes and improvements
+**Additional components, bugfixes and improvements**
 
 Release date - 2019-07-31
 
-#### What’s new around here 🕑
+**What’s new around here 🕑**
 
 * A Landmark variant `hillside` which is less promotional than `summit`
   * It has no image and no call to action.
 * `ns-form` - The container for all `ns-inputter` components which manages the validation.
 * Introducing the `select` variant of `ns-inputter` commonly known as - the dropdown.
 
-#### Bug fixes 🦋
+**Bugfixes 🦋**
 
 * Addressing an issue where the BG-VI.css anchor styles were overriding Nucleus.
 * Ensuring that `ns-cta` is tabbable when not contained within an `<a>`.
 * Slight change to the implementation of the CSS box model.
 * Adding slot styling to the heading within the `flat` variant of `ns-card`.
 
-#### Improvements 🐶
+**Improvements 🐶**
 
 * Validation improvements to `ns-inputter` suppoting minLength, maxLength and isBetweenLength validations.
 * Validation for radio buttons and `ns-inputter` `select` component.
@@ -77,7 +77,7 @@ Release date - 2019-07-31
 * The `ns-cta` within `ns-lockup` and `ns-landmark` is now optional.
   * Choose 'none' from the 'CTA type' dropdown in the Knobs addon.
 
-#### Feedback 🦉
+**Feedback 🦉**
 
 All our Requests For Change can be found in our Requests project board in Github.
 https://github.com/ConnectedHomes/nucleus/projects/6
@@ -87,29 +87,29 @@ Any questions? Let us know 🙌🏼
 
 ## Version 1.1.3
 
-### Bugfixes and improvements
+**Bugfixes and improvements**
 
 Release date - 2019-06-24
 
-#### Sketch Library 🐳
+**Sketch Library 🐳**
 
 * Fixed broken and duplicated Components / Templates.
 
-#### Bug fixes 🏏
+**Bugfixes 🏏**
 
 * Fixed the inconsistent positioning of the accordion chevron when multiple expanders were used.
 * Addressed the IE11 bug where the incorrect text colour appeared within `ns-cta` and `ns-tab`.
 * Enable the position `right` for the circle decoration.
 * Fix initial value overwrite in `ns-inputter`.
 
-#### Improvements 🌻
+**Improvements 🌻**
 
 * Removed `slot="label"` from `ns-inputter` as we use the anonymous slot.
 * Improve the `ns-tabs` Storybook story.
 * Include the tap illustration.
 * Adding the solid and outline Energy icon.
 
-#### Feedback 🦕
+**Feedback 🦕**
 
 All our Requests For Change can be found in our Requests project board in Github.
 https://github.com/ConnectedHomes/nucleus/projects/6
@@ -119,11 +119,11 @@ Any questions? Let us know 🙌🏼
 
 ## Version 1.1.1
 
-### Something for you, you and you! 🎉
+**Something for you, you and you! 🎉**
 
 Release date - 2019-06-11
 
-#### What’s new around here 🌶
+**What’s new around here 🌶**
 
 * `ns-inputter` - the vanilla first of our form elements.
   * Text, Email, Telephone, Password, Number, Radio, Checkbox.
@@ -142,7 +142,7 @@ Release date - 2019-06-11
 * Added Guides to give indication of where components can be placed.
 * Included Templates to quickly mockup a page and placing components in a layout.
 
-#### Bug fixes 🐞
+**Bugfixes 🐞**
 
 * Replace previous green outline on `ns-cta` with current yellow outline.
 * Ensuring that the class of `blur` is implemented when required.
@@ -150,7 +150,7 @@ Release date - 2019-06-11
 * Improve specificity of typographic styling.
 * Including robust techniques for setting attributes.
 
-#### Improvements 🌸
+**Improvements 🌸**
 
 * Storybook, split Playground and Foundations.
 * Remove unused properties from our components.
@@ -158,7 +158,7 @@ Release date - 2019-06-11
 * Including a variable for `@outline` colour.
 * Adding the solid and outline Rewards icon.
 
-#### Collaboration 🤗
+**Collaboration 🤗**
 
 A big thank you to everyone involved in contributing to this release!
 
@@ -167,7 +167,7 @@ A big thank you to everyone involved in contributing to this release!
 * New Boilers - For collaborating with us to make sure their recent journey contained Nucleus components.
 * Help & Support - for their patience with the Nucleus CMS page, allowing us time to build the video component.
 
-#### Feedback 🐢
+**Feedback 🐢**
 
 All our Requests For Change can be found in our Requests project board in Github.
 https://github.com/ConnectedHomes/nucleus/projects/6
@@ -177,11 +177,11 @@ Any questions? Let us know 🙌🏼
 
 ## Version 1.0.0
 
-### Our first major release! 🎉
+**Our first major release! 🎉**
 
 Release date - 2019-04-15
 
-#### What’s new around here 🌶
+**What’s new around here 🌶**
 
 **Integration with Ember Commons**
 * A feature flag exists in Ember Commons to enable Nucleus.
@@ -201,7 +201,7 @@ Release date - 2019-04-15
 * Our documentation - https://docs.britishgas.design
 * Accordion - https://docs.britishgas.design/components/ns-accordion
 
-#### Bug fixes 🐞
+**Bugfixes 🐞**
 
 * Vertical spacing adjustments.
 * Adjusting the style of the heading within our Accordion.
@@ -209,7 +209,7 @@ Release date - 2019-04-15
 * Removing the duplicate BG Flame font loading.
 * Fixed the hierarchy of the screen sizes in Sketch library.
 
-#### Feedback 🐳
+**Feedback 🐳**
 
 The following request for changes have been started
 
