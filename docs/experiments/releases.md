@@ -4,7 +4,7 @@ description: Here are our release notes - enjoy!
 
 # Release notes
 
-## Release [X.X.X]
+## Version [X.X.X]
 
 ### [briefly descibe the release]
 
@@ -48,7 +48,7 @@ https://github.com/ConnectedHomes/nucleus/projects/6
 Any questions? Let us know 🙌🏼
 
 
-## Release 1.1.4
+## Version 1.1.4
 
 ### Additional components, bugfixes and improvements
 
@@ -85,7 +85,7 @@ https://github.com/ConnectedHomes/nucleus/projects/6
 Any questions? Let us know 🙌🏼
 
 
-## Release 1.1.3
+## Version 1.1.3
 
 ### Bugfixes and improvements
 
@@ -117,7 +117,7 @@ https://github.com/ConnectedHomes/nucleus/projects/6
 Any questions? Let us know 🙌🏼
 
 
-## Release 1.1.1
+## Version 1.1.1
 
 ### Something for you, you and you! 🎉
 
@@ -175,7 +175,7 @@ https://github.com/ConnectedHomes/nucleus/projects/6
 Any questions? Let us know 🙌🏼
 
 
-## Release 1.0.0
+## Version 1.0.0
 
 ### Our first major release! 🎉
 
