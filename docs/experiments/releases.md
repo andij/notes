@@ -6,7 +6,7 @@ description: Here are our release notes - enjoy!
 
 ## Release X.X.X
 
-YYYY-MM-DD - [briefly descibe the release]
+### YYYY-MM-DD - [briefly descibe the release]
 
 #### What’s new around here [add emoji]
 
@@ -48,7 +48,7 @@ Any questions? Let us know 🙌🏼
 
 ## Release 1.1.4
 
-2019-07-31 - Additional components, bugfixes and improvements
+### 2019-07-31 - Additional components, bugfixes and improvements
 
 #### What’s new around here 🕑
 
@@ -83,7 +83,7 @@ Any questions? Let us know 🙌🏼
 
 ## Release 1.1.3
 
-2019-06-24 - Bugfixes and improvements
+### 2019-06-24 - Bugfixes and improvements
 
 #### Sketch Library 🐳
 
@@ -113,7 +113,7 @@ Any questions? Let us know 🙌🏼
 
 ## Release 1.1.1
 
-2019-06-11 - Something for you, you and you! 🎉
+### 2019-06-11 - Something for you, you and you! 🎉
 
 #### What’s new around here 🌶
 
@@ -169,7 +169,7 @@ Any questions? Let us know 🙌🏼
 
 ## Release 1.0.0
 
-2019-04-15 - Our first major release! 🎉
+### 2019-04-15 - Our first major release! 🎉
 
 #### What’s new around here 🌶
 
