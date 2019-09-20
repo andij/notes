@@ -4,11 +4,11 @@ description: Here are our release notes - enjoy!
 
 # Release notes
 
-## Release X.X.X
+## Release [X.X.X]
 
 ### [briefly descibe the release]
 
-Release date - YYYY-MM-DD
+Release date - [YYYY-MM-DD]
 
 #### What’s new around here [add emoji]
 
