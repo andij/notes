@@ -15,11 +15,11 @@ description: Nucleus principles.
 
 ### We have three sets of principles that we abide by.
 
-[Accessibility principles](https://docs.britishgas.design/experiments/#accessibility-principles)
+[Accessibility principles](https://notes.drew-jones.com/v/master/experiments/#accessibility-principles)
 
-[Experience principles](https://docs.britishgas.design/experiments/#experience-principles)
+[Experience principles](https://notes.drew-jones.com/v/master/experiments/#experience-principles)
 
-[Creative principles](https://docs.britishgas.design/experiments/#creative-principles)
+[Creative principles](https://notes.drew-jones.com/v/master/experiments/#creative-principles)
 
 
 ## Accessibility principles
