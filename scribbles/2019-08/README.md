@@ -1,4 +1,5 @@
 ---
+layout: base.njk
 description: August 2019
 ---
 
