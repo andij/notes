@@ -10,33 +10,33 @@ Taking a few embeds and dropping them in here.
 
 ## ns-cta
 
-{% embed url="https://codepen.io/andij/pen/qzYoKB" caption="" %}
+https://codepen.io/andij/pen/qzYoKB
 
-{% embed url="https://jsfiddle.net/andij/wop7y8df/1/" caption="" %}
+https://jsfiddle.net/andij/wop7y8df/1/
 
-{% embed url="https://jsfiddle.net/andij/wop7y8df/5/" caption="" %}
+https://jsfiddle.net/andij/wop7y8df/5/
 
 BGE
 
-{% embed url="https://jsfiddle.net/gh/get/library/pure/britishgas-engineering/nucleus-examples/tree/master/demos/ns-cta" caption="" %}
+https://jsfiddle.net/gh/get/library/pure/britishgas-engineering/nucleus-examples/tree/master/demos/ns-cta
 
 ## ns-cards
 
-{% embed url="https://codepen.io/andij/pen/wLjjaj" caption="" %}
+https://codepen.io/andij/pen/wLjjaj
 
 ## ns-landmark
 
-{% embed url="https://codepen.io/andij/pen/XLqqqd" caption="" %}
+https://codepen.io/andij/pen/XLqqqd
 
 ## soapbox
 
-{% embed url="https://soapbox.wistia.com/videos/v2LAAl5UnT" caption="" %}
+https://soapbox.wistia.com/videos/v2LAAl5UnT
 
 ![Caption content](https://andijcdn.sirv.com/nds/testcard-16x9.png?w=320)
 
 ![Caption](https://andijcdn.sirv.com/nds/testcard-16x9.png?w=320)
 
-{% embed url="https://youtu.be/0\_tMIoOOTRA" caption="" %}
+https://youtu.be/0\_tMIoOOTRA
 
-{% embed url="https://youtu.be/r2fVnLh\_tsg" caption="" %}
+https://youtu.be/r2fVnLh\_tsg
 

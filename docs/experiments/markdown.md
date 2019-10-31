@@ -83,32 +83,7 @@ Inline code `is included by surrounding backticks in line`
 | First column content | Second column content |
 | Unspecified spots on curtains | If one say hid deep over find |
 
-{% hint style="info" %}
-Hint with blue [i] icon
-{% endhint %}
 
-{% hint style="warning" %}
-Hint with orange [!] icon
-{% endhint %}
-
-{% hint style="danger" %}
-Hint with red [!] icon
-{% endhint %}
-
-{% hint style="success" %}
-Hint with green tick
-{% endhint %}
-
-{% page-ref page="../scribbles/2019-06/2019-06-25.md" %}
-
-{% page-ref page="fq-hipster.md" %}
-
-{% tabs %}
-{% tab title="First Tab" %}
-Content within the first tab reveals most formatting types are available to drop in here.
-{% endtab %}
-
-{% tab title="Second Tab" %}
 ## Swag hashtag af salvia
 
 Art party unicorn next level. Yr helvetica vinyl pabst echo park cardigan kogi crucifix literally cornhole distillery tbh green juice. Cloud bread roof party viral hashtag activated charcoal, DIY venmo meditation typewriter. Shaman VHS four dollar toast pork belly, cliche enamel pin tousled.
@@ -123,8 +98,6 @@ Art party unicorn next level. Yr helvetica vinyl pabst echo park cardigan kogi c
     };
   }
 ```
-{% endtab %}
-{% endtabs %}
 
 $$
 s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2}
@@ -154,9 +127,7 @@ Becoming a super hero is a fairly straight forward process:
 $ give me super-powers
 ```
 
-{% hint style="info" %}
 Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
 Once you're strong enough, save the world:
 
@@ -165,48 +136,6 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 
-## API [Template]
-
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
-{% api-method-summary %}
-Get Cakes
-{% endapi-method-summary %}
-
-{% api-method-description %}
-This endpoint allows you to get free cakes.
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" %}
-ID of the cake to get, for free of course.
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-
-{% api-method-headers %}
-{% api-method-parameter name="Authentication" type="string" required=true %}
-Authentication token to track down who is emptying our stocks.
-{% endapi-method-parameter %}
-{% endapi-method-headers %}
-
-{% api-method-query-parameters %}
-{% api-method-parameter name="recipe" type="string" %}
-The API will do its best to find a cake matching the provided recipe.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="gluten" type="boolean" %}
-Whether the cake should be gluten-free or not.
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Cake successfully retrieved.
-{% endapi-method-response-example-description %}
-
 ```javascript
 {
     "name": "Cake's name",
@@ -214,22 +143,12 @@ Cake successfully retrieved.
     "cake": "Binary cake"
 }
 ```
-{% endapi-method-response-example %}
-
-{% api-method-response-example httpCode=404 %}
-{% api-method-response-example-description %}
-Could not find a cake matching this query.
-{% endapi-method-response-example-description %}
 
 ```javascript
 {
     "message": "Ain't no cake like that."
 }
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
 
 ## Changelog [Template]
 
