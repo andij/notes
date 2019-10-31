@@ -1,4 +1,5 @@
 ---
+layout: base.njk
 description: naming is hard
 ---
 

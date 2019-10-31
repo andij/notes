@@ -1,4 +1,5 @@
 ---
+layout: base.njk
 description:  Detailing the difference between implementations to choose the most appropriate solution.
 ---
 

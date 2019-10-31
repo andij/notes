@@ -1,4 +1,5 @@
 ---
+layout: base.njk
 description: a place to make a notes
 ---
 
