@@ -84,6 +84,7 @@ Inline code `is included by surrounding backticks in line`
 | First column content | Second column content |
 | Unspecified spots on curtains | If one say hid deep over find |
 
+
 ## Swag hashtag af salvia
 
 Art party unicorn next level. Yr helvetica vinyl pabst echo park cardigan kogi crucifix literally cornhole distillery tbh green juice. Cloud bread roof party viral hashtag activated charcoal, DIY venmo meditation typewriter. Shaman VHS four dollar toast pork belly, cliche enamel pin tousled.
@@ -107,7 +108,7 @@ $$
 
 These are the markdown examples provided by Gitbook
 
-## FAQ \[Template\]
+## FAQ [Template]
 
 ### Can I become who I want to be?
 
@@ -117,7 +118,7 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 
 Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
-## Guide \[Template\]
+## Guide [Template]
 
 ### Getting Super Powers
 
@@ -150,7 +151,7 @@ echo 'You got to trust me on this, I saved the world'
 }
 ```
 
-## Changelog \[Template\]
+## Changelog [Template]
 
 ### 15.0.0 - 2042-12-03
 
