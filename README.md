@@ -1,7 +1,8 @@
 ---
-layout: base.njk
-description: a place to make a notes
+description: A place to make a notes
 ---
 
-# Noted notes
+# Welcome
+
+Hiya, it's a start. Albeit a small piece, but it's a start nonetheless.
 
