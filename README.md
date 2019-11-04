@@ -2,8 +2,8 @@
 tags:
   - notes
 layout: base.njk
-description: a place to make a notes
+description: A place to make a bunch of notes
 ---
 
-# Noted notes
+# Welcome
 
