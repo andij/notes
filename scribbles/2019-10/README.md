@@ -1,0 +1,11 @@
+---
+tags:
+  - notes
+layout: base.njk
+description: October 2019
+---
+
+# 2019-10
+
+Ushering in a cozy season.
+
