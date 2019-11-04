@@ -2,8 +2,8 @@
 tags:
   - notes
 layout: base.njk
-description: a place to make a notes
+description: This is published from the /master branch.
 ---
 
-# Noted notes
+# Current release
 
