@@ -2,8 +2,8 @@
 tags:
   - notes
 layout: base.njk
-description: A place to make a bunch of code notes.
+description: We can publish a /release-candidate branch and generate another version.
 ---
 
-# Welcome
+# Release candidate
 
