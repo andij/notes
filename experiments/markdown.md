@@ -1,4 +1,6 @@
 ---
+tags:
+  - notes
 layout: base.njk
 description: What kinda markdown does what
 ---

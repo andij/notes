@@ -1,4 +1,6 @@
 ---
+tags:
+  - notes
 layout: base.njk
 description: Capture the URLs of coded prototypes
 ---
