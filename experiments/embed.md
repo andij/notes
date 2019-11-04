@@ -1,4 +1,6 @@
 ---
+tags:
+  - notes
 description: Experiment with the embed within Gitbook
 ---
 

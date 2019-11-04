@@ -1,4 +1,6 @@
 ---
+tags:
+  - notes
 description: What kinda markdown does what
 ---
 

@@ -1,4 +1,6 @@
 ---
+tags:
+  - notes
 description: naming is hard
 ---
 

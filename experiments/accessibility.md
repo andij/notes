@@ -1,4 +1,6 @@
 ---
+tags:
+  - notes
 description:  Detailing the difference between implementations to choose the most appropriate solution.
 ---
 

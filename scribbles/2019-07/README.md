@@ -1,4 +1,6 @@
 ---
+tags:
+  - notes
 description: July 2019
 ---
 
