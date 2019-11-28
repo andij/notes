@@ -1,5 +1,5 @@
 ---
-description: [insert description].
+description: insert description.
 ---
 
 # ns-[component name]
