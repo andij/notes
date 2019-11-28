@@ -8,7 +8,37 @@ description: Selector component.
 
 > Ns-selectors are used to group an image or illustration with a label into a card. They  showcase a product, service or option, which users can select. They can function as single, or multiple selection for the user.
 
-## Usage
+## Content guidance
+
+### Image guidance
+
+| Component | Variant | Ratio | Dimensions | Size | Type | Placeholder
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| `ns-selector`| n/a | 16:9 | 640x360px | &lt; 50kb | jpeg | [ns-selector-640x360px](https://user-images.githubusercontent.com/50207859/68392177-1ee4fb80-0161-11ea-8826-14326d2c976a.jpg)
+
+## Best practices
+
+| 💚 Do's | 💔 Don'ts |
+| :--- | :--- |
+| Use if you need to support the label with an image | Mix radio and checkboxes |
+| Use if you need to support the label with an illustration | Use if the image or illustration make the selection harder to understand |
+| Use a heading within the content when providing supporting copy | Add too much content, they should not be miniature web pages |
+| Use inline text links into supporting content if necessary | Use without an image or an illustration |
+| Bolden key messages eg. price within heading to highlight | Use imagery within ns-selector with copy embedded inside |
+| Use a radio button or checkbox |  Use an image and an illustration together |
+||Add a decoration behind the selectors |
+
+
+
+### Considerations of best practices
+
+* When deciding to use the ns-selector, it’s important to consider whether a radio or checkbox button itself would be more appropriate.
+* In a many cases, a simple radio button or checkbox is all the user needs to make the choice. Only use the ns selector when adding more supporting information makes the decisioin for the user easier.
+* If you are using the ns-selector with an illustration, it's important to make sure you are using a Nucleus illustration. [View illustrations in Storybook](https://nucleus.bgdigital.xyz/demo/index.html?path=/story/ns-illustrations--appliance)
+* Make sure the supporting copy is clear and concise.
+* Make sure the labels explain exactly what the user is selecting. If all content is removed other than the label, then the user would still understand what they are selecting.
+
+## Live examples
 
 Ns-selector can be single selection (radio) or multiple selection (checkbox) it should be placed within a ns-inputter.
 
@@ -46,21 +76,6 @@ To see examples visit [Storybook](https://nucleus.bgdigital.xyz/demo/index.html?
 </ns-inputter>
 ```
 
-
-## Component Relationship
-
-**Does it live in a panel?**  
-No
-
-**What layout classes can be used?**  
-N/A
-
-**Does it live inside other components?**  
-No - Does it not live inside inputter?
-
-**Atomic type**  
-Molecule
-
 ## Specification
 
 | **Name**| Named slot `description` |
@@ -83,37 +98,6 @@ Molecule
 | **Type** | string |
 | **Default** | n/a |
 | **Options** | n/a |
-
-
-## Best practices
-
-| 💚 Do's | 💔 Don'ts |
-| :--- | :--- |
-| Use if you need to support the label with an image | Mix radio and checkboxes |
-| Use if you need to support the label with an illustration | Use if the image or illustration make the selection harder to understand |
-| Use a heading within the content when providing supporting copy | Add too much content, they should not be miniature web pages |
-| Use inline text links into supporting content if necessary | Use without an image or an illustration |
-| Bolden key messages eg. price within heading to highlight | Use imagery within ns-selector with copy embedded inside |
-| Use a radio button or checkbox |  Use an image and an illustration together |
-||Add a decoration behind the selectors |
-
-
-
-### Considerations of best practices
-
-* When deciding to use the ns-selector, it’s important to consider whether a radio or checkbox button itself would be more appropriate.
-* In a many cases, a simple radio button or checkbox is all the user needs to make the choice. Only use the ns selector when adding more supporting information makes the decisioin for the user easier.
-* If you are using the ns-selector with an illustration, it's important to make sure you are using a Nucleus illustration. [View illustrations in Storybook](https://nucleus.bgdigital.xyz/demo/index.html?path=/story/ns-illustrations--appliance)
-* Make sure the supporting copy is clear and concise.
-* Make sure the labels explain exactly what the user is selecting. If all content is removed other than the label, then the user would still understand what they are selecting.
-
-## Content guidance
-
-### Image guidance
-
-| Component | Variant | Ratio | Dimensions | Size | Type | Placeholder
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `ns-selector`| n/a | 16:9 | 640x360px | &lt; 50kb | jpeg | [ns-selector-640x360px](https://user-images.githubusercontent.com/50207859/68392177-1ee4fb80-0161-11ea-8826-14326d2c976a.jpg)
 
 ## Feedback
 

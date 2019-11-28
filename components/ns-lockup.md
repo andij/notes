@@ -54,7 +54,7 @@ To see examples visit [Storybook](https://nucleus.bgdigital.xyz/demo/index.html?
 
 {% embed url="https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-lockup" caption="" %}
 
-```markup
+```html
 <ns-lockup type="lockbox">
   <h2 slot="heading">
     <span class="h5">Our Home Services.</span>
