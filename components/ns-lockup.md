@@ -13,7 +13,11 @@ Lockups can be used to display key information about a product, a service or tel
 ## Content guidance
 
 ![Lockup - 1280 keyline](https://user-images.githubusercontent.com/50207859/69795658-7c022900-11c4-11ea-84df-b4df0306edcf.png)
+
+
 ![Lockup - 1280](https://user-images.githubusercontent.com/50207859/69795659-7c9abf80-11c4-11ea-97c9-ef992b79ad8f.png)
+
+
 ![Lockup - 1280 - border](https://user-images.githubusercontent.com/50207859/69795660-7c9abf80-11c4-11ea-97f7-668f02a548d9.png)
 
 | label | field-type | Guidelines |
