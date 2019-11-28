@@ -12,17 +12,19 @@ Lockups can be used to display key information about a product, a service or tel
 
 ## Content guidance
 
-![image](https://user-images.githubusercontent.com/28779/59835717-1ae74700-9342-11e9-9d89-bff17bf7dc8f.png)
+![Lockup - 1280 keyline](https://user-images.githubusercontent.com/50207859/69795658-7c022900-11c4-11ea-84df-b4df0306edcf.png)
+![Lockup - 1280](https://user-images.githubusercontent.com/50207859/69795659-7c9abf80-11c4-11ea-97c9-ef992b79ad8f.png)
+![Lockup - 1280 - border](https://user-images.githubusercontent.com/50207859/69795660-7c9abf80-11c4-11ea-97f7-668f02a548d9.png)
 
-| field-type | Guidelines |
-| :--- | :--- |
-| sub-heading | sub-headings are used to indicate the primary section or to reinforce a brand message. Short and simple words tend to work better and it is recommended to keep the length between 1 and 5 words |
-| heading | The recommended length is between 4 and 12 words, not exceeding 50 characters in total. Headings should contain light and bold font weight to highlight key messaging. |
-| paragraph | A single, short paragraph works best. You are able to use inline text links within the paragraph if necessary. Don't add additional headings within the paragraph and the copy length should not exceed more than two paragraphs of 3 lines each |
-| caveat | Should be placed at the end of the paragraph if necessary |
-| cta-text | Keep them ‘short, relevant, and actionable’ It should not exceed more than 24 characters |
-| cta-link | This is the URL that the user will be taken too when they tap or click the CTA. |
-| image-path | This is the image that will be used inside the ns-lockup. It should have an aspect ratio of 4:3, the dimensions should be 728x547px, the file type should be jpg, and the file size should be no more than 100kb. Don't use imagery with white backgrounds. Please make sure you work with a designer when selecting any imagery for the ns-lockups. |
+| label | field-type | Guidelines |
+| :--- | :--- | :--- |
+| A | sub-heading | sub-headings are used to indicate the primary section or to reinforce a brand message. Short and simple words tend to work better and it is recommended to keep the length between 1 and 5 words |
+| B | heading | The recommended length is between 4 and 12 words, not exceeding 50 characters in total. Headings should contain light and bold font weight to highlight key messaging. |
+| C | paragraph | A single, short paragraph works best. You are able to use inline text links within the paragraph if necessary. Don't add additional headings within the paragraph and the copy length should not exceed more than two paragraphs of 3 lines each |
+| D | caveat | Should be placed at the end of the paragraph if necessary |
+| E | cta-text | Keep them ‘short, relevant, and actionable’ It should not exceed more than 24 characters |
+| F | cta-link | This is the URL that the user will be taken too when they tap or click the CTA. |
+| G | image-path | This is the image that will be used inside the ns-lockup. It should have an aspect ratio of 4:3, the dimensions should be 728x547px, the file type should be jpg, and the file size should be no more than 100kb. Don't use imagery with white backgrounds. Please make sure you work with a designer when selecting any imagery for the ns-lockups. |
 
 ### Image guidance
 

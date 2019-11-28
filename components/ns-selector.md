@@ -10,6 +10,18 @@ description: Selector component.
 
 ## Content guidance
 
+![ns-selector - 1280 - border](https://user-images.githubusercontent.com/50207859/69795662-7d335600-11c4-11ea-9235-3f4ba8d970b5.png)
+![ns-selector - 1280 keyline](https://user-images.githubusercontent.com/50207859/69795666-7d335600-11c4-11ea-9835-bb66d42b5b4a.png)
+![ns-selector - 1280](https://user-images.githubusercontent.com/50207859/69795667-7dcbec80-11c4-11ea-813b-ae677d73bc02.png)
+
+| label | field-type | Guidelines |
+| :--- | :--- | :--- |
+| A | heading |  |
+| B | illustration |  |
+| C | label |  |
+| D | sub-title |  |
+| E | content |  |
+
 ### Image guidance
 
 | Component | Variant | Ratio | Dimensions | Size | Type | Placeholder
