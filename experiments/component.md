@@ -2,7 +2,7 @@
 description: insert description.
 ---
 
-# ns-[component name]
+# ns-component
 
 ## Introduction
 
@@ -16,8 +16,9 @@ To see examples visit [Storybook](https://nucleus.bgdigital.xyz/demo/index.html?
 
 {% embed url="https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-component" %}
 
-markup
+```markup
 <ns-component></ns-component>
+```
 
 ## Component Relationship
 
