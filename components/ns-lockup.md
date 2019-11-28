@@ -10,6 +10,29 @@ description: Lockup component.
 
 Lockups can be used to display key information about a product, a service or tell a short story.
 
+## Content guidance
+
+![image](https://user-images.githubusercontent.com/28779/59835717-1ae74700-9342-11e9-9d89-bff17bf7dc8f.png)
+
+| field-type | Guidelines |
+| :--- | :--- |
+| sub-heading | sub-headings are used to indicate the primary section or to reinforce a brand message. Short and simple words tend to work better and it is recommended to keep the length between 1 and 5 words |
+| heading | The recommended length is between 4 and 12 words, not exceeding 50 characters in total. Headings should contain light and bold font weight to highlight key messaging. |
+| paragraph | A single, short paragraph works best. You are able to use inline text links within the paragraph if necessary. Don't add additional headings within the paragraph and the copy length should not exceed more than two paragraphs of 3 lines each |
+| caveat | Should be placed at the end of the paragraph if necessary |
+| cta-text | Keep them ‘short, relevant, and actionable’ It should not exceed more than 24 characters |
+| cta-link | This is the URL that the user will be taken too when they tap or click the CTA. |
+| image-path | This is the image that will be used inside the ns-lockup. It should have an aspect ratio of 4:3, the dimensions should be 728x547px, the file type should be jpg, and the file size should be no more than 100kb. Don't use imagery with white backgrounds. Please make sure you work with a designer when selecting any imagery for the ns-lockups. |
+
+### Image guidance
+
+| Component | Variant | Ratio | Dimensions | Size | Type | Placeholder
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| `ns-lockup`| `lockbox` | 4:3 | 720x540px | &lt; 100kb | jpeg | [ns-lockup-lockbox-720x540px](https://user-images.githubusercontent.com/50207859/67642153-d461b480-f900-11e9-9520-11204c64a11b.jpg)
+| `ns-lockup`| `lockbox` | 1:1 | 720x720px | &lt; 100kb | jpeg | [ns-lockup-lockbox-720x720px](https://user-images.githubusercontent.com/50207859/67642154-d461b480-f900-11e9-9581-212ede25f362.jpg)
+| `ns-lockup`| `lockjaw` | 4:3 | 720x540px | &lt; 100kb | jpeg | [ns-lockup-lockjaw-720x540px](https://user-images.githubusercontent.com/50207859/67642155-d4fa4b00-f900-11e9-9ba6-a31f61ddb0ef.jpg)
+| `ns-lockup`| `locknut` | 1:1 | 720x720px | &lt; 100kb | jpeg | [ns-lockup-locknut-720x720px](https://user-images.githubusercontent.com/50207859/67642156-d4fa4b00-f900-11e9-8400-548625a1648f.jpg)
+
 ## Usage
 
 To see examples visit [Storybook](https://nucleus.bgdigital.xyz/demo/index.html?path=/story/playground-panels--lockup-decoration-panel).
@@ -118,29 +141,6 @@ Organism
 * Alternate the position of image/video when using more than one lockup.
 * Paragraph works best as a single, short paragraph.
 * Use real-life photographs.
-
-## Content guidance
-
-![image](https://user-images.githubusercontent.com/28779/59835717-1ae74700-9342-11e9-9d89-bff17bf7dc8f.png)
-
-| field-type | Guidelines |
-| :--- | :--- |
-| sub-heading | sub-headings are used to indicate the primary section or to reinforce a brand message. Short and simple words tend to work better and it is recommended to keep the length between 1 and 5 words |
-| heading | The recommended length is between 4 and 12 words, not exceeding 50 characters in total. Headings should contain light and bold font weight to highlight key messaging. |
-| paragraph | A single, short paragraph works best. You are able to use inline text links within the paragraph if necessary. Don't add additional headings within the paragraph and the copy length should not exceed more than two paragraphs of 3 lines each |
-| caveat | Should be placed at the end of the paragraph if necessary |
-| cta-text | Keep them ‘short, relevant, and actionable’ It should not exceed more than 24 characters |
-| cta-link | This is the URL that the user will be taken too when they tap or click the CTA. |
-| image-path | This is the image that will be used inside the ns-lockup. It should have an aspect ratio of 4:3, the dimensions should be 728x547px, the file type should be jpg, and the file size should be no more than 100kb. Don't use imagery with white backgrounds. Please make sure you work with a designer when selecting any imagery for the ns-lockups. |
-
-### Image guidance
-
-| Component | Variant | Ratio | Dimensions | Size | Type | Placeholder
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `ns-lockup`| `lockbox` | 4:3 | 720x540px | &lt; 100kb | jpeg | [ns-lockup-lockbox-720x540px](https://user-images.githubusercontent.com/50207859/67642153-d461b480-f900-11e9-9520-11204c64a11b.jpg)
-| `ns-lockup`| `lockbox` | 1:1 | 720x720px | &lt; 100kb | jpeg | [ns-lockup-lockbox-720x720px](https://user-images.githubusercontent.com/50207859/67642154-d461b480-f900-11e9-9581-212ede25f362.jpg)
-| `ns-lockup`| `lockjaw` | 4:3 | 720x540px | &lt; 100kb | jpeg | [ns-lockup-lockjaw-720x540px](https://user-images.githubusercontent.com/50207859/67642155-d4fa4b00-f900-11e9-9ba6-a31f61ddb0ef.jpg)
-| `ns-lockup`| `locknut` | 1:1 | 720x720px | &lt; 100kb | jpeg | [ns-lockup-locknut-720x720px](https://user-images.githubusercontent.com/50207859/67642156-d4fa4b00-f900-11e9-8400-548625a1648f.jpg)
 
 ## Feedback
 
