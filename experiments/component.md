@@ -12,9 +12,9 @@ description: insert description.
 
 ## Usage
 
-To see examples visit [Storybook](https://nucleus.bgdigital.xyz/demo/index.html?path=/story/ns-component--component).
+To see examples visit [Storybook](https://nucleus.bgdigital.xyz/demo/index.html?path=/story/ns-lockup--lockjaw).
 
-{% embed url="https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-component" %}
+{% embed url="https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-lockup" %}
 
 ```markup
 <ns-component></ns-component>
