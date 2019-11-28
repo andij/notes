@@ -33,7 +33,22 @@ Lockups can be used to display key information about a product, a service or tel
 | `ns-lockup`| `lockjaw` | 4:3 | 720x540px | &lt; 100kb | jpeg | [ns-lockup-lockjaw-720x540px](https://user-images.githubusercontent.com/50207859/67642155-d4fa4b00-f900-11e9-9ba6-a31f61ddb0ef.jpg)
 | `ns-lockup`| `locknut` | 1:1 | 720x720px | &lt; 100kb | jpeg | [ns-lockup-locknut-720x720px](https://user-images.githubusercontent.com/50207859/67642156-d4fa4b00-f900-11e9-8400-548625a1648f.jpg)
 
-## Usage
+## Best practice
+
+| 💚 Do's | 💔 Don'ts |
+| :--- | :--- |
+| Embolden the key message in the heading | Include more than one CTA |
+| Keep the heading length to 4-12 words | Exceed more than two paragraphs of 3 lines each |
+| Keep subheading length between 1-5 words |  |
+| Optimise the lockup image (see image optimise LINK) | Use images with a white background |
+
+### Considerations of best practices
+
+* Alternate the position of image/video when using more than one lockup.
+* Paragraph works best as a single, short paragraph.
+* Use real-life photographs.
+
+## Live examples
 
 To see examples visit [Storybook](https://nucleus.bgdigital.xyz/demo/index.html?path=/story/playground-panels--lockup-decoration-panel).
 
@@ -52,20 +67,6 @@ To see examples visit [Storybook](https://nucleus.bgdigital.xyz/demo/index.html?
   <ns-image slot="image" ratio="4x3" src="/aem6/content/dam/britishgas/images/ns/image4_3.png"></ns-image>
 </ns-lockup>
 ```
-
-## Component Relationship
-
-**Does it live in a panel?**  
-Yes
-
-**What layout classes can be used?**  
-None
-
-**Does it live inside other components?**  
-No
-
-**Atomic type**  
-Organism
 
 ## Specification
 
@@ -126,21 +127,6 @@ Organism
 | **Type** | component |
 | **Default** | `<ns-image>` |
 | **Options** | `<ns-image>`, `<ns-video>` |
-
-## Best practice
-
-| 💚 Do's | 💔 Don'ts |
-| :--- | :--- |
-| Embolden the key message in the heading | Include more than one CTA |
-| Keep the heading length to 4-12 words | Exceed more than two paragraphs of 3 lines each |
-| Keep subheading length between 1-5 words |  |
-| Optimise the lockup image (see image optimise LINK) | Use images with a white background |
-
-### Considerations of best practices
-
-* Alternate the position of image/video when using more than one lockup.
-* Paragraph works best as a single, short paragraph.
-* Use real-life photographs.
 
 ## Feedback
 
