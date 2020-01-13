@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-layout: base.njk
+
 description: October 2019
 ---
 

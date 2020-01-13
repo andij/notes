@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-layout: base.njk
+
 description: Experiment with the embed within Gitbook
 ---
 
