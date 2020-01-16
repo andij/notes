@@ -1,5 +1,5 @@
 ---
-description: Molecule | Selector component.
+description: Selector component.
 ---
 
 # ns-selector
@@ -10,17 +10,27 @@ description: Molecule | Selector component.
 
 ## Content guidance
 
-| Field type | Guidelines |
-| :--- | :--- |
-| Label |  |
-| Paragraph |  |
-| Heading |  |
+![ns-selector - 1280 border](https://user-images.githubusercontent.com/50207859/69795662-7d335600-11c4-11ea-9235-3f4ba8d970b5.png)
+
+
+![ns-selector - 1280 keyline](https://user-images.githubusercontent.com/50207859/69795666-7d335600-11c4-11ea-9835-bb66d42b5b4a.png)
+
+
+![ns-selector - 1280 naked](https://user-images.githubusercontent.com/50207859/69795667-7dcbec80-11c4-11ea-813b-ae677d73bc02.png)
+
+| label | field-type | Guidelines |
+| :--- | :--- | :--- |
+| A | heading |  |
+| B | illustration |  |
+| C | label |  |
+| D | sub-title |  |
+| E | content |  |
 
 ### Image guidance
 
-| Component | Variant | Ratio | Dimensions | Size | Type | Placeholder |
+| Component | Variant | Ratio | Dimensions | Size | Type | Placeholder
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `ns-selector`| n/a | 16:9 | 640x360px | &lt; 50kb | jpeg | [ns-selector-640x360px](https://user-images.githubusercontent.com/50207859/68392177-1ee4fb80-0161-11ea-8826-14326d2c976a.jpg) |
+| `ns-selector`| n/a | 16:9 | 640x360px | &lt; 50kb | jpeg | [ns-selector-640x360px](https://user-images.githubusercontent.com/50207859/68392177-1ee4fb80-0161-11ea-8826-14326d2c976a.jpg)
 
 ## Best practices
 
@@ -32,21 +42,23 @@ description: Molecule | Selector component.
 | Use inline text links into supporting content if necessary | Use without an image or an illustration |
 | Bolden key messages eg. price within heading to highlight | Use imagery within ns-selector with copy embedded inside |
 | Use a radio button or checkbox |  Use an image and an illustration together |
-|  |Add a decoration behind the selectors |
+||Add a decoration behind the selectors |
+
+
 
 ### Considerations of best practices
 
 * When deciding to use the ns-selector, it’s important to consider whether a radio or checkbox button itself would be more appropriate.
 * In a many cases, a simple radio button or checkbox is all the user needs to make the choice. Only use the ns selector when adding more supporting information makes the decisioin for the user easier.
-* If you are using the ns-selector with an illustration, it's important to make sure you are using a Nucleus illustration. [View illustrations in Storybook](https://britishgas.co.uk/nucleus/demo/index.html?path=/story/ns-illustrations--appliance)
+* If you are using the ns-selector with an illustration, it's important to make sure you are using a Nucleus illustration. [View illustrations in Storybook](https://nucleus.bgdigital.xyz/demo/index.html?path=/story/ns-illustrations--appliance)
 * Make sure the supporting copy is clear and concise.
 * Make sure the labels explain exactly what the user is selecting. If all content is removed other than the label, then the user would still understand what they are selecting.
 
-## Usage
+## Live examples
 
 Ns-selector can be single selection (radio) or multiple selection (checkbox) it should be placed within a ns-inputter.
 
-To see examples visit [Storybook](https://britishgas.co.uk/nucleus/demo/index.html?path=/story/ns-inputter--selectorradio)
+To see examples visit [Storybook](https://nucleus.bgdigital.xyz/demo/index.html?path=/story/ns-inputter--selectorradio)
 
 {% embed url="https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-selector" caption="" %}
 
@@ -80,28 +92,28 @@ To see examples visit [Storybook](https://britishgas.co.uk/nucleus/demo/index.ht
 </ns-inputter>
 ```
 
-
-## Component Relationship
-
-|  **Relationship**  |  |
-| :--- | :--- |
-| **Does it live in a panel?** | ❌ No |
-| **Does it live inside other components?** | ✅ Yes - `ns-inputter` |
-| **What layout classes can be used?**  | None |
-
 ## Specification
 
-| Attribute | Type | Default | Options | Description |
-| :--- | :--- | :--- | :--- | :--- |
-| `checked` | `string` |  |  | Check the value. |
-| `decoration` | `string` |  |See [Illustration component in Storybook](https://britishgas.co.uk/nucleus/demo/index.html?path=/story/ns-illustrations--appliance)| Illustration that is show in the section type card |
-| `image`      | `string` |  |  | Optional image |
-| `value` | `any`     |  |  | Value of selection |
-
-| Slots | Type |
+| **Name**| Named slot `description` |
 | :--- | :--- |
-| `description` | `div` |
-| `anonymous` | `input` `label` |
+| **Description** | The text content of the selector, this can contain paragraphs and lists |
+| **Type** | HTML |
+| **Default** | n/a |
+| **Options** | n/a |
+
+| **Name**| Named slot `image` |
+| :--- | :--- |
+| **Description** | The url of the image (optional) |
+| **Type** | string |
+| **Default** | n/a |
+| **Options** | n/a |
+
+| **Name**| Named slot `decoration` |
+| :--- | :--- |
+| **Description** | The name of the illustration (optional) |
+| **Type** | string |
+| **Default** | n/a |
+| **Options** | n/a |
 
 ## Feedback
 
