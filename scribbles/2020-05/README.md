@@ -1,7 +1,6 @@
 ---
 tags:
   - notes
-
 description: May 2020
 ---
 
